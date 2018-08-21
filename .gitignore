@@ -1,0 +1,13 @@
+.idea/
+.gradle/
+build/
+obj/
+*.iml
+local.properties
+*.keystore
+gradle.properties
+
+/TMessagesProj/.externalNativeBuild/
+/TMessagesProj/src/main/java/com/filtershekanha/teledr/internal/
+/TMessagesProj/internal/
+/TMessagesProj/google-services.json

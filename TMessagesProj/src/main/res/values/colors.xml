@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="divider">#dcdcdc</color>
+    <color name="splash">#efefef</color>
+    <color name="splash_red">#EA4542</color>
+</resources>
